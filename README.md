@@ -18,7 +18,7 @@ license: cc-by-sa-4.0
 <p>Huge shoutout and acknowledgement is deserved for all the dataset creators who generously share their datasets openly.</p>
 
 <h2>Prompt Format</h2>
-<p>The model follows the Alpaca prompt format:</p>
+<p>The model follows the Vicuna 1.1/ OpenChat format:</p>
 
 
 <h2>Future Plans</h2>
