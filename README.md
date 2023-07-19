@@ -8,12 +8,12 @@ license: cc-by-sa-4.0
 <p>“Luna AI Llama2 Uncensored” is a Llama2 based Chat model <br />fine-tuned on over 40,000 long form chat discussions <br />
   This model was fine-tuned by Tap, the creator of Luna AI. <br /> 
   The result is an enhanced Llama2 7b model that rivals ChatGPT in performance <br />across a variety of tasks.</p>
-<p>This model stands out for its long responses, low hallucination rate, and absence of censorship mechanisms. <br /></p>
+<p>This model stands out for its long responses, <br /> low hallucination rate, and absence of censorship mechanisms. <br /></p>
 
 <h2>Model Training</h2>
 <p>The fine-tuning process was performed on an 8x a100 80GB machine.
   <br />The model was trained almost entirely on synthetic outputs.
-  <br />This includes data from diverse sources which we included to create our custom dataset, it includes multiple rounds of chats between Human & AI.
+  <br />This includes data from diverse sources which we included to create our custom dataset,<br /> it includes multiple rounds of chats between Human & AI.
 </p>
 
 <h2>Prompt Format</h2>
