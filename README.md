@@ -41,7 +41,7 @@ ASSISTANT: Of course! Friends are always here for each other. What do you like t
 |Task|Version| Metric |Value |Stderr|
 |arc_challenge|0|acc_norm|0.5512|0.0146|
 |hellaswag|0||||
-|mmlu|0||||
+|mmlu|1|acc_norm|0.46521|0.036|
 |truthfulqa_mc|1|mc2|0.4716|0.0155|
 |Average|-|-|0.5114|0.0150|
 
